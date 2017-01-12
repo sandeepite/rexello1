@@ -1,0 +1,1 @@
+<?php include('../common_files/header1.php'); include('product_script.php');  include('../common_files/footer1.php'); ?> 
